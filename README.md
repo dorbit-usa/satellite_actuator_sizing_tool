@@ -20,7 +20,7 @@ It then runs numerous long-running simulations at various flight conditions whic
 * Steering Law
 * Torque Bar Max Torque
 
-Then, the following metrics for each model are generated
+Then, the following metrics for each scenario are generated
 * System Momentum Time History
 * Wheel Speed Time History
 * Wheel Speed Torque History
