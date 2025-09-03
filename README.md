@@ -12,16 +12,19 @@ It requires as input
 * Mass Properties
 * Reaction Wheel Alignments
 * Magnetic Torque Bar Alignments
+* Magnetic Torque Bar Duty Cycle
 * Steering Laws
 
-It then runs numerous long-running simulations at various flight conditions which include
+It then runs numerous year-long simulations at various flight conditions which include
 * Orbit
 * Environment Model (SRP, AP)
 * Steering Law
-* Torque Bar Max Torque
+* Torque Bar Max Dipole
 
 Then, the following metrics for each scenario are generated
+* Force and Torque Time History
 * System Momentum Time History
+* Spacecraft Orbit State Time History
 * Wheel Speed Time History
-* Wheel Speed Torque History
+
 
